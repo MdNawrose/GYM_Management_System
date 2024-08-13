@@ -1,0 +1,78 @@
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.exe.config
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.exe
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.pdb
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.AssemblyReference.cache
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Form1.resources
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Properties.Resources.resources
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.GenerateResource.cache
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.CoreCompileInputs.cache
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.exe
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.pdb
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.NewMember.resources
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Login.resources
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.NewStaff.resources
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Equipment.resources
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.ViewEquipment.resources
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Search_Member.resources
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.SearchMember.resources
+C:\Users\UseR\source\repos\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.DeleteMember.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.exe.config
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.exe
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.pdb
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.AssemblyReference.cache
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.DeleteMember.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Equipment.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Form1.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Login.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.NewMember.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.NewStaff.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Properties.Resources.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Search_Member.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.SearchMember.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.ViewEquipment.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.GenerateResource.cache
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.CoreCompileInputs.cache
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.exe
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.pdb
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.SearchGymStaff.resources
+C:\Users\UseR\Downloads\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.DeleteGymStaff.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.exe.config
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.exe
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.pdb
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.AssemblyReference.cache
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.DeleteGymStaff.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.DeleteMember.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Equipment.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Form1.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Login.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.NewMember.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.NewStaff.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Properties.Resources.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Search_Member.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.SearchGymStaff.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.SearchMember.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.ViewEquipment.resources
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.GenerateResource.cache
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.CoreCompileInputs.cache
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.exe
+C:\Users\UseR\Desktop\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.pdb
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.exe.config
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.exe
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\bin\Debug\ei Project r hobe nah.pdb
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.AssemblyReference.cache
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.DeleteGymStaff.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.DeleteMember.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Equipment.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Form1.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Login.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.NewMember.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.NewStaff.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Properties.Resources.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.Search_Member.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.SearchGymStaff.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.SearchMember.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei_Project_r_hobe_nah.ViewEquipment.resources
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.GenerateResource.cache
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.csproj.CoreCompileInputs.cache
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.exe
+C:\Users\UseR\Desktop\New folder (4)\New folder\Left\Project\C#\GYM Management System\ei Project r hobe nah (1)\ei Project r hobe nah\ei Project r hobe nah\obj\Debug\ei Project r hobe nah.pdb
